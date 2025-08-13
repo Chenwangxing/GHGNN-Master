@@ -4,6 +4,8 @@ The code and weights have been released, enjoy it！ You can easily run the mode
 
 Run test.py to view the model's average displacement error (ADE), final displacement error (FDE), model parameters, GPU memory allocated, GPU memory reserved, Average inference time per run, and FPS.
 
+It is worth noting that GPU memory allocation, GPU memory reserved, Average inference time per run, and FPS may vary depending on the experimental equipment.
+
 ## Code Structure
 checkpoint folder: contains the trained models
 
