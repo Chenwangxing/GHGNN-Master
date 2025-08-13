@@ -1,6 +1,8 @@
 # GHGNN-Master
 
-The code and weights have been released, enjoy it！ You can easily run the model！ To use the pretrained models at checkpoint/ and evaluate the model prediction and real-time performance, run:  test.py
+The code and weights have been released, enjoy it！ You can easily run the model！ To use the pretrained models at checkpoint/ and evaluate the model prediction and real-time performance, run:  test.py!
+
+Run test.py to view the model's average displacement error (ADE), final displacement error (FDE), model parameters, GPU memory allocated, GPU memory reserved, Average inference time per run, and FPS.
 
 ## Code Structure
 checkpoint folder: contains the trained models
