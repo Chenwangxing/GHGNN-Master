@@ -7,7 +7,7 @@ Run test.py to view the model's average displacement error (ADE), final displace
 It is worth noting that GPU memory allocation, GPU memory reserved, Average inference time per run, and FPS may vary depending on the experimental equipment.
 
 ## Code Structure
-checkpoint folder: contains the trained models
+checkpoint folder: contains the trained model weights
 
 dataset folder: contains ETH, UCY and SDD datasets
 
