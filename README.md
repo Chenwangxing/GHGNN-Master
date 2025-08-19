@@ -6,6 +6,9 @@ Run test.py to view the model's average displacement error (ADE), final displace
 
 It is worth noting that GPU memory allocation, GPU memory reserved, Average inference time per run, and FPS may vary depending on the experimental equipment.
 
+Environment
+The code is trained and tested on RTX 4090, Python 3.8.13, numpy 1.19.4, pytorch 2.3.0 and CUDA.
+
 ## Code Structure
 checkpoint folder: contains the trained model weights
 
