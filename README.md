@@ -6,6 +6,8 @@ The code and weights have been released, enjoy it！ You can easily run the mode
 
 It is worth noting that GPU memory allocation, GPU memory reserved, Average inference time per run, and FPS may vary depending on the experimental equipment.
 
+If you can't run test.py correctly, please contact me in time!
+
 ## Environment
 The code is trained and tested on RTX 4090, Python 3.8.13, numpy 1.23.1, pytorch 2.3.0 and CUDA.
 
