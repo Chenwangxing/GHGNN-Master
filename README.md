@@ -19,6 +19,8 @@ dataset folder: contains ETH, UCY and SDD datasets
 
 model.py: the code of GHGNN
 
+train.py: for training the code
+
 test.py: for testing the code
 
 utils.py: general utils used by the code
